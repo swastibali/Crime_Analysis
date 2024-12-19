@@ -7,9 +7,10 @@ This project analyzes crime data to predict whether a specific area will experie
 
 🔍 Problem Statement
 
-Objective: To predict whether an area will experience high or low crime in a given month based on historical data.
-
+Objective: To predict whether an area will experience high or low crime in a given month based on historical data.  
 This prediction enables law enforcement agencies to proactively plan and allocate resources effectively.
+
+
 
 
 📊 Dataset Description
