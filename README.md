@@ -19,5 +19,26 @@ Victim Information: Gender, age, and ethnicity.
 Handling Police Station: Area and station associated with each crime.  
 The dataset helps in identifying crime hotspots, analyzing trends, and evaluating law enforcement responses.  
 
+🚀 Machine Learning Models
+
+Models Used:  
+Logistic Regression:  
+Baseline Logistic Regression.  
+Logistic Regression with Regularization:  
+L2 Regularization (Ridge).  
+L1 Regularization (Lasso).  
+Random Forest Classifier.  
+K-Nearest Neighbors (KNN).  
+Naïve Bayes Classifier.
+
+🛠️ Technologies Used
+
+Python: Core programming language.  
+Pandas: For data preprocessing and aggregation.  
+Scikit-learn: For implementing and evaluating machine learning models.  
+Matplotlib/Seaborn: For visualizations.
+
+
+
 
 
